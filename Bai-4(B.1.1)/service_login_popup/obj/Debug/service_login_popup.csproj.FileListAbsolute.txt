@@ -1,0 +1,8 @@
+H:\Cơ chế hoạt động của mã độc\Lab\service_login_popup\service_login_popup\bin\Debug\service_login_popup.exe.config
+H:\Cơ chế hoạt động của mã độc\Lab\service_login_popup\service_login_popup\bin\Debug\service_login_popup.exe
+H:\Cơ chế hoạt động của mã độc\Lab\service_login_popup\service_login_popup\bin\Debug\service_login_popup.pdb
+H:\Cơ chế hoạt động của mã độc\Lab\service_login_popup\service_login_popup\obj\Debug\service_login_popup.ProjectInstaller.resources
+H:\Cơ chế hoạt động của mã độc\Lab\service_login_popup\service_login_popup\obj\Debug\service_login_popup.csproj.GenerateResource.cache
+H:\Cơ chế hoạt động của mã độc\Lab\service_login_popup\service_login_popup\obj\Debug\service_login_popup.csproj.CoreCompileInputs.cache
+H:\Cơ chế hoạt động của mã độc\Lab\service_login_popup\service_login_popup\obj\Debug\service_login_popup.exe
+H:\Cơ chế hoạt động của mã độc\Lab\service_login_popup\service_login_popup\obj\Debug\service_login_popup.pdb

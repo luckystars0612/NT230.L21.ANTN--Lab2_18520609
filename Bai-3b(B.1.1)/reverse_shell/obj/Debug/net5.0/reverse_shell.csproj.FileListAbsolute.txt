@@ -1,0 +1,16 @@
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\bin\Debug\net5.0\reverse_shell.exe
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\bin\Debug\net5.0\reverse_shell.deps.json
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\bin\Debug\net5.0\reverse_shell.runtimeconfig.json
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\bin\Debug\net5.0\reverse_shell.runtimeconfig.dev.json
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\bin\Debug\net5.0\reverse_shell.dll
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\bin\Debug\net5.0\ref\reverse_shell.dll
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\bin\Debug\net5.0\reverse_shell.pdb
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\reverse_shell.csprojAssemblyReference.cache
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\reverse_shell.GeneratedMSBuildEditorConfig.editorconfig
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\reverse_shell.AssemblyInfoInputs.cache
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\reverse_shell.AssemblyInfo.cs
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\reverse_shell.csproj.CoreCompileInputs.cache
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\reverse_shell.dll
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\ref\reverse_shell.dll
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\reverse_shell.pdb
+H:\Cơ chế hoạt động của mã độc\Lab\reverse_shell\reverse_shell\obj\Debug\net5.0\reverse_shell.genruntimeconfig.cache
